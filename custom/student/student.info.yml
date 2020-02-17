@@ -1,0 +1,5 @@
+name: Student
+type: module
+description: 'This module is for Student' 
+package: Custom
+core: '8.x'

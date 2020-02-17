@@ -1,0 +1,5 @@
+name: Classes
+type: module
+description: 'This module is for Classes' 
+package: Custom
+core: '8.x'

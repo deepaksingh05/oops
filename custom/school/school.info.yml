@@ -1,0 +1,5 @@
+name: School 
+type: module
+description: 'This module is for School Class' 
+package: Custom
+core: '8.x'
